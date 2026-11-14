@@ -1,5 +1,6 @@
 # TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp. 
+Titles of each project contains links that goes in details about the project
 
 
 | Project number | Title | Description |
